@@ -1,1 +1,1 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MADURAA_GANESH)](https://leetcode.com/u/MADURAA_GANESH/)
