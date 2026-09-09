@@ -288,14 +288,23 @@ I believe consistent project building is one of the best ways to turn technical 
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/maduraa-ganesh2006/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maduraa%20Ganesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://maduraa-ganesh-portfolio--nmaduraaganesh.replit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:nmaduraaganesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://leetcode.com/u/MADURAA_GANESH/">
+    <img src="https://img.shields.io/badge/LeetCode-MADURAA__GANESH-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
 
-### 💼 LinkedIn : <a href="https://www.linkedin.com/in/maduraa-ganesh2006/">Maduraa Ganesh</a>                      ### 🌐 Portfolio : <a href="https://maduraa-ganesh-portfolio--nmaduraaganesh.replit.app/">Visit My Portfolio</a>
-### 📧 Email : <a href="mailto:nmaduraaganesh@gmail.com">nmaduraaganesh@gmail.com</a>                               ### 💻 LeetCode : <a href="https://leetcode.com/u/MADURAA_GANESH/">MADURAA_GANESH</a>
-
-</div>
 
 ---
 
