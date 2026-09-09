@@ -1,8 +1,10 @@
 <div align="center">
 
-👋 Hi, I'm N. Maduraa Ganesh
+# 👋 Hi, I'm N. Maduraa Ganesh
 
-B.Tech Information Technology Student | Aspiring Data Analyst · Data Scientist · AI Engineer
+### B.Tech Information Technology Student
+
+**Aspiring Data Analyst · Data Scientist · AI Engineer**
 
 <p>
   <a href="https://github.com/MADURAAGANESH-N">
@@ -23,80 +25,93 @@ B.Tech Information Technology Student | Aspiring Data Analyst · Data Scientist 
   <strong>🐍 Python</strong>
 </p>
 
-<p>
-  <em>Learning by building practical projects with data, machine learning, and AI.</em>
-</p>
+<em>Learning by building practical projects with data, machine learning, and AI.</em>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I'm a B.Tech Information Technology student building skills for entry-level opportunities in:
+## 👨‍💻 About Me
 
-Data Analyst · Data Scientist · AI Engineer · Machine Learning Engineer
+I'm a **B.Tech Information Technology student** developing practical skills in **data analysis, machine learning, and AI application development**.
 
-I enjoy turning raw data into meaningful insights, experimenting with machine learning models, and building intelligent applications that solve practical problems.
+I'm currently preparing for internships and entry-level opportunities in:
 
-                   MY LEARNING PATH
-┌────────────┐     ┌────────────┐     ┌──────────────┐
-│   Python   │ ──► │ Data       │ ──► │ Machine      │
-│ & SQL      │     │ Analysis   │     │ Learning     │
-└────────────┘     └────────────┘     └──────┬───────┘
-                                             │
-                                             ▼
-                                      ┌──────────────┐
-                                      │ AI Projects  │
-                                      └──────┬───────┘
-                                             │
-                                             ▼
-                                      ┌──────────────┐
-                                      │ Real-World   │
-                                      │ Applications │
-                                      └──────────────┘
+**Data Analyst · Data Scientist · AI Engineer · Machine Learning Engineer**
 
-🎯 What I'm Looking For
+I enjoy working with data, discovering patterns, building predictive models, and creating practical applications that turn ideas into usable solutions.
 
-I'm preparing for internships and entry-level roles where I can contribute, learn from experienced teams, and work on real-world data and AI problems.
+---
 
-🧩 Areas I'm Developing
+## 🧭 My Learning Path
 
-Track
+```text
+┌──────────────┐
+│ Python & SQL │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Data Analysis│
+└──────┬───────┘
+       │
+       ▼
+┌───────────────┐
+│Machine Learning│
+└───────┬────────┘
+        │
+        ▼
+┌──────────────┐
+│ AI Projects  │
+└──────┬───────┘
+       │
+       ▼
+┌────────────────────┐
+│Real-World Solutions│
+└────────────────────┘
+```
 
-Focus
+---
 
-📊 Data Analyst
+## 🎯 What I'm Looking For
 
-Data cleaning, EDA, insights, reporting and visualization
+I'm preparing for **internships and entry-level roles** where I can contribute to real-world projects, strengthen my technical skills, and learn from experienced teams.
 
-🔬 Data Scientist
+I'm especially interested in opportunities involving:
 
-Predictive modeling, classification, recommendation systems
+**Data Analysis · Machine Learning · Artificial Intelligence · Data Science · Python**
 
-🤖 AI Engineer
+---
 
-AI-powered applications, intelligent systems and model integration
+## 🧩 Areas I'm Developing
 
-🐍 Python Developer
+| Track                   | Focus                                                                      |
+| ----------------------- | -------------------------------------------------------------------------- |
+| 📊 **Data Analyst**     | Data cleaning, EDA, SQL, insights, reporting and visualization             |
+| 🔬 **Data Scientist**   | Statistics, predictive modeling, classification and recommendation systems |
+| 🤖 **AI Engineer**      | AI-powered applications, intelligent systems and model integration         |
+| 🐍 **Python Developer** | Data workflows, automation and application development                     |
 
-Data workflows, automation and application development
+---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
-💻 Programming
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programming">
 </p>
 
-📊 Data & Analytics
+### 📊 Data & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis">
+  <img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-6C63FF?style=for-the-badge" alt="EDA">
 </p>
 
-🤖 Machine Learning & AI
+### 🤖 Machine Learning & AI
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-8A2BE2?style=for-the-badge" alt="Machine Learning">
@@ -105,84 +120,102 @@ Data workflows, automation and application development
   <img src="https://img.shields.io/badge/AI-Application%20Development-0EA5E9?style=for-the-badge" alt="AI">
 </p>
 
-🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,astro" alt="Tools">
   <img src="https://img.shields.io/badge/Replit-Development%20Platform-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
 </p>
 
-🚀 Featured Projects
+---
 
-💳 Financial Fraud Detection
+# 🚀 Featured Projects
 
-Goal: Explore transaction data and identify potentially fraudulent activity using machine learning classification techniques.
+## 💳 Financial Fraud Detection
 
-Skills: Python Data Analysis Jupyter Classification Machine Learning
+**Goal:** Analyze transaction data and identify potentially fraudulent transactions using machine learning classification techniques.
 
-🔗 View Repository
+**Skills:** Python · Data Analysis · EDA · Classification · Machine Learning
 
-🎬 Hybrid Movie Recommendation System
+🔗 **View Repository**
 
-Goal: Build a recommendation pipeline that combines collaborative filtering and content-based filtering to produce personalized movie recommendations.
+---
 
-Skills: Python Machine Learning Recommendation Systems Data Processing
+## 🎬 Hybrid Movie Recommendation System
 
-🔗 View Repository
+**Goal:** Build a recommendation pipeline combining **collaborative filtering** and **content-based filtering** to generate personalized movie recommendations.
 
-🌊 Plastic Waste Detection in Ocean
+**Skills:** Python · Machine Learning · Recommendation Systems · Data Processing
 
-Goal: Apply data science and detection techniques to an environmental problem involving plastic pollution.
+🔗 **View Repository**
 
-Skills: Data Science Detection Python
+---
 
-🔗 View Repository
+## 🌊 Plastic Waste Detection in Ocean
 
-🖼️ AI Image vs Real Image
+**Goal:** Apply data science and detection techniques to an environmental problem involving plastic pollution.
 
-Goal: Develop an application focused on distinguishing AI-generated images from real images.
+**Skills:** Python · Data Science · Detection · Data Processing
 
-Skills: TypeScript AI Image Classification
+🔗 **View Repository**
 
-🔗 View Repository
+---
 
-💰 Money Tracker
+## 🖼️ AI Image vs Real Image
 
-Goal: Build a simple web application for tracking personal expenses and improving financial visibility.
+**Goal:** Develop an application for distinguishing between **AI-generated images and real images**.
 
-Skills: Astro JavaScript Web Development
+**Skills:** TypeScript · AI · Image Classification
 
-🔗 View Repository
+🔗 **View Repository**
 
-🐾 PetCare Chatbot
+---
 
-Goal: Create a conversational AI interface for answering common pet-care questions.
+## 💰 Money Tracker
 
-Skills: Conversational AI Chatbot Web Application
+**Goal:** Build a lightweight web application for tracking personal expenses and improving financial visibility.
 
-🔗 View Repository
+**Skills:** Astro · JavaScript · Web Development
 
-🧠 How I Approach Projects
+🔗 **View Repository**
 
+---
+
+## 🐾 PetCare Chatbot
+
+**Goal:** Create a conversational AI application for answering common pet-care questions.
+
+**Skills:** Conversational AI · Chatbot · Web Application
+
+🔗 **View Repository**
+
+---
+
+# 🧠 How I Approach Projects
+
+```text
 Problem
-  ↓
-Understand the Data / Requirements
-  ↓
+   ↓
+Understand Requirements & Data
+   ↓
 Clean & Prepare
-  ↓
+   ↓
 Explore & Find Patterns
-  ↓
-Build a Model / Application
-  ↓
+   ↓
+Build Model / Application
+   ↓
 Evaluate Results
-  ↓
+   ↓
 Improve
-  ↓
+   ↓
 Document & Share
+```
 
-My goal is not only to build models, but to understand the problem, the data, and the impact of the solution.
+> My goal is not only to build models, but to understand the **problem, data, methodology, and impact** behind each solution.
 
-📈 GitHub Activity
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -196,6 +229,8 @@ My goal is not only to build models, but to understand the problem, the data, an
 
 </div>
 
+<br>
+
 <div align="center">
 
 <a href="https://github.com/MADURAAGANESH-N">
@@ -204,93 +239,97 @@ My goal is not only to build models, but to understand the problem, the data, an
 
 </div>
 
-🎯 2026 Career Roadmap
+---
 
-Status
+# 🎯 2026 Career Roadmap
 
-Goal
+| Status | Goal                                              |
+| :----: | ------------------------------------------------- |
+|    ✅   | Strengthen Python for data and AI                 |
+|   🔄   | Improve SQL and data querying                     |
+|   🔄   | Build stronger data analysis projects             |
+|   🔄   | Practice statistics and machine learning          |
+|   🔄   | Create more end-to-end AI applications            |
+|   🔄   | Improve data visualization and storytelling       |
+|   🎯   | Build an internship-ready portfolio               |
+|   🎯   | Contribute to real-world and open-source projects |
+|   🎯   | Become placement-ready for Data & AI roles        |
 
-✅
+---
 
-Strengthen Python for data and AI
-
-🔄
-
-Improve SQL and data querying
-
-🔄
-
-Build stronger data analysis projects
-
-🔄
-
-Practice statistics and machine learning
-
-🔄
-
-Create more end-to-end AI applications
-
-🔄
-
-Improve data visualization and storytelling
-
-🎯
-
-Build a strong internship-ready portfolio
-
-🎯
-
-Contribute to real-world and open-source projects
-
-🎯
-
-Become placement-ready for Data / AI roles
-
-💼 Target Roles
+# 💼 Target Roles
 
 I'm actively preparing for opportunities such as:
 
-Data Analyst · Junior Data Scientist · AI Engineer · Machine Learning Engineer · Data Science Intern · AI/ML Intern
+**Data Analyst · Junior Data Scientist · AI Engineer · Machine Learning Engineer · Data Science Intern · AI/ML Intern**
 
+---
+
+# 🧪 Currently Learning
+
+* Python for Data Science
+* SQL & Data Querying
+* Exploratory Data Analysis
+* Statistics for Machine Learning
+* Machine Learning Algorithms
+* Data Visualization
+* AI Application Development
+* Problem Solving & DSA
+
+---
+
+# 🌱 My Development Philosophy
+
+```text
 Learn → Build → Analyze → Deploy → Improve → Repeat 🚀
+```
 
-🌐 Connect With Me
+I believe consistent project building is one of the best ways to turn technical knowledge into practical skills.
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-Platform
+### 💻 GitHub
 
-leetcode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MADURAA_GANESH)](https://leetcode.com/u/MADURAA_GANESH/)
-
-Link
-
-💻 GitHub
-
+<a href="https://github.com/MADURAAGANESH-N">
 MADURAAGANESH-N
+</a>
 
-🌐 Portfolio
+### 💼 LinkedIn
 
-Visit My Portfolio
-
-💼 LinkedIn
-
+<a href="https://www.linkedin.com/in/maduraa-ganesh2006/">
 Maduraa Ganesh
+</a>
 
-📧 Email
+### 🌐 Portfolio
 
+<a href="https://maduraa-ganesh-portfolio--nmaduraaganesh.replit.app/">
+Visit My Portfolio
+</a>
+
+### 📧 Email
+
+<a href="mailto:nmaduraaganesh@gmail.com">
 nmaduraaganesh@gmail.com
+</a>
+
+### 💻 LeetCode
+
+<a href="https://leetcode.com/u/MADURAA_GANESH/">
+MADURAA_GANESH
+</a>
 
 </div>
+
+---
 
 <div align="center">
 
-⭐ Thanks for visiting my GitHub profile!
+## ⭐ Thanks for visiting my GitHub profile!
 
-Data • Machine Learning • AI • Python • Problem Solving • Continuous Learning
+**Data • Machine Learning • AI • Python • Problem Solving • Continuous Learning**
 
 </div>
-
-
-
