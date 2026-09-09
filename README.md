@@ -292,11 +292,8 @@ I believe consistent project building is one of the best ways to turn technical 
 
 <div align="center">
 
-### 💻 GitHub : <a href="https://github.com/MADURAAGANESH-N">MADURAAGANESH-N</a>
-### 💼 LinkedIn : <a href="https://www.linkedin.com/in/maduraa-ganesh2006/">Maduraa Ganesh</a>
-### 🌐 Portfolio : <a href="https://maduraa-ganesh-portfolio--nmaduraaganesh.replit.app/">Visit My Portfolio</a>
-### 📧 Email : <a href="mailto:nmaduraaganesh@gmail.com">nmaduraaganesh@gmail.com</a>
-### 💻 LeetCode : <a href="https://leetcode.com/u/MADURAA_GANESH/">MADURAA_GANESH</a>
+### 💼 LinkedIn : <a href="https://www.linkedin.com/in/maduraa-ganesh2006/">Maduraa Ganesh</a>                      ### 🌐 Portfolio : <a href="https://maduraa-ganesh-portfolio--nmaduraaganesh.replit.app/">Visit My Portfolio</a>
+### 📧 Email : <a href="mailto:nmaduraaganesh@gmail.com">nmaduraaganesh@gmail.com</a>                               ### 💻 LeetCode : <a href="https://leetcode.com/u/MADURAA_GANESH/">MADURAA_GANESH</a>
 
 </div>
 
