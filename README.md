@@ -52,6 +52,28 @@ I enjoy working with data, identifying patterns, building machine learning solut
 
 ---
 
+## 💻 LeetCode Progress
+
+<div align="center">
+
+<a href="https://leetcode.com/u/MADURAA_GANESH/">
+  <img src="https://leetcard.jacoblin.cool/MADURAA_GANESH?theme=dark" alt="LeetCode Stats">
+</a>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MADURAAGANESH-N&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
