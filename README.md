@@ -46,8 +46,6 @@ I enjoy working with data, identifying patterns, building machine learning solut
 
 ### 🖼️ AI Image vs Real Image
 
-### 💰 Money Tracker
-
 ### 🐾 PetCare Chatbot
 
 ---
